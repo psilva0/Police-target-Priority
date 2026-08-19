@@ -164,6 +164,5 @@ Bachelor's student in Science and Technology — **Federal University of Bahia (
 
 
 
----
 
-⭐ If you find this project interesting, consider giving the repository a star!
+
